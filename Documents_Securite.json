@@ -37,5 +37,18 @@
     "sousDossier": "",
     "mimeType": "application/pdf",
     "nomFichierOriginal": "TEST sansSSDos.pdf"
+  },
+  {
+    "nomDocument": "test sans dossier avec A au debut",
+    "version": "V1",
+    "debutValidite": "2020-01-01",
+    "finValidite": "2038-01-01",
+    "miseEnLigne": "2026-08-21",
+    "auteur": "DE GOURNAY",
+    "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
+    "fichier": "documents/test_sans_dossier_avec_A_au_debut_V1.pdf",
+    "sousDossier": "",
+    "mimeType": "application/pdf",
+    "nomFichierOriginal": "A-TEST sansSSDos.pdf"
   }
 ]
