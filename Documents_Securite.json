@@ -11,18 +11,5 @@
     "sousDossier": "SsDoss1",
     "mimeType": "application/pdf",
     "nomFichierOriginal": "SS Dos1.pdf"
-  },
-  {
-    "nomDocument": "Test sous doss2",
-    "version": "V1",
-    "debutValidite": "2021-01-01",
-    "finValidite": "2042-01-01",
-    "miseEnLigne": "2026-08-21",
-    "auteur": "DE GOURNAY",
-    "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
-    "fichier": "documents/SS Doss2/Test_sous_doss2_V1.pdf",
-    "sousDossier": "SS Doss2",
-    "mimeType": "application/pdf",
-    "nomFichierOriginal": "SS Dos2.pdf"
   }
 ]
