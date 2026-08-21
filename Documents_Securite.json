@@ -24,18 +24,5 @@
     "sousDossier": "Test Ss doss 2",
     "mimeType": "application/pdf",
     "nomFichierOriginal": "Document Secu TEST ssdos2.pdf"
-  },
-  {
-    "nomDocument": "test sans dossier sup",
-    "version": "V1",
-    "debutValidite": "2020-01-01",
-    "finValidite": "2042-01-01",
-    "miseEnLigne": "2026-08-21",
-    "auteur": "DE GOURNAY",
-    "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
-    "fichier": "documents/test_sans_dossier_sup_V1.pdf",
-    "sousDossier": "",
-    "mimeType": "application/pdf",
-    "nomFichierOriginal": "TEST sansSSDos.pdf"
   }
 ]
